@@ -39,34 +39,3 @@
 
 
 
-Development Tools
-Project Description
-Basic Development Tools
-
-Installation Guide
-Here are the installation steps:
-
-Download the installation package and execute the EXE program.
-Required installations include MVS Client and CH340 driver.
-Software Functional Details
-Camera
-Camera device enumeration
-Camera connection and streaming
-Common camera properties settings (trigger mode, frame rate, exposure time, gain, ROI height and width, custom camera name, Gamma setting, pixel format setting, auto white balance)
-Screenshot
-Support for displaying images in various formats
-Log output
-Lens
-Lens device enumeration
-Lens connection
-Driver board selection (Optotune, Shanghai driver board, self-developed driver board, Hikvision integrated line)
-Voltage adjustment
-Rangefinder (not imported)
-Rangefinder device enumeration
-Rangefinder selection (Heboson laser rangefinder, triangular laser rangefinder, infrared laser rangefinder)
-Display of rangefinder measurements
-Image Fusion Algorithm (not imported)
-User input (lens response time, number of captures, start voltage, end voltage)
-Selection of folder for saving fused images
-Autofocus Algorithm (not imported)
-MTF Algorithm (not imported)
